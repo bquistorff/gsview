@@ -1,0 +1,1 @@
+Copy of source code for [GSview 5.0](http://www.ghostgum.com.au/software/gsview.htm), a program to view Postscript files. (Note: GSview 6.0, which was maintained by Artifex, is no longer available.) Requires [Ghostscript](https://www.ghostscript.com/). Includes an new NSIS-based 64bit installer than can run silently (unattended) for use with package managers (e.g., `winget`). 
